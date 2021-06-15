@@ -35,7 +35,7 @@ The following visualizations are generated from the output of the model. Shown b
 
 Without any mitigation, we see a sweeping spread of the disease across the entire region which will result to massive undersupply of healthcare facilities.
 
-### Spatiotemporal propagation in a selective lockdwon scenario
+### Spatiotemporal propagation in a selective lockdown scenario
 ![animated-lockdown](reports/figures/animated-lockdown.gif)
 
 In this scenario, we can see that multiple waves of infection is likely to be expected in a policy where only districts with high mobility are put on lockdown.
